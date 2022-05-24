@@ -17,7 +17,7 @@ offer          = "CentOS"
 sku            = "7.5"
 os_version     = "latest"
 admin_username = "centos"
-vm_size        = "Standard_DS1_v2"
+vm_size        = "Standard_DS2_v2"
 
 tags = {
   Name        = "VPC_Project"
@@ -27,4 +27,3 @@ tags = {
   Bill        = "CFO"
   Quarter     = "3"
 }
-
